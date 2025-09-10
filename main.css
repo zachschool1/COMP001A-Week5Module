@@ -4,3 +4,50 @@
     color: #037c7f;
     background-color: #01403A;
 }
+
+body,h1,h2,p,ul,li,a {
+    margin:0;
+    padding:0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: #012636;
+}
+
+h1 {
+    color: #038c7f;
+    font-size: 2em;
+    margin-bottom: 1em;
+}
+
+h2 {
+    font-size: 1.5em;
+    color: #027368;
+}
+
+p {
+    font-size: 16px;
+    color:#7f8c8d;
+    margin-bottom:12px;
+}
+
+p a {
+    color: #f39c12;
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+    margin-left: 20px;
+    margin-bottom: 12px;
+}
+
+ul li {
+    margin-bottom: 5px;
+    color:#7f8c8d;
+}
+
+div ul {
+    list-style-type: square;
+}
