@@ -1,0 +1,6 @@
+/* css applied top to bottom, last wins. */
+/* Method 1: External CSS Part 3 */
+.external-css {
+    color: #037c7f;
+    background-color: #01403A;
+}
